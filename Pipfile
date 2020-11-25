@@ -9,7 +9,6 @@ verify_ssl = true
 requests = "*"
 numpy = "*"
 pandas = "*"
-tensorflow = "*"
 jupyter = "*"
 sklearn = "*"
 matplotlib = "*"
@@ -17,6 +16,9 @@ seaborn = "*"
 mlxtend = "*"
 pyfpgrowth = "*"
 networkx = "*"
+xlrd = "*"
+scipy = "*"
+scikit-learn = "*"
 
 [requires]
 python_version = "3.7"
